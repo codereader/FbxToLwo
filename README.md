@@ -1,6 +1,6 @@
 # FbxToLwo - Convert Meshes from FBX to Lightwave LWO
 
-Command-line utility to convert FBX meshes to Lightwave's LWO2 file format, based on the [OpenFBX library](https://github.com/nem0/OpenFBX).
+Command-line utility to convert FBX meshes to Lightwave's LWO2 file format, based on the [OpenFBX library](https://github.com/nem0/OpenFBX) and the LWO2 exporter code as used in the [DarkRadiant Level Editor](https://github.com/codereader/DarkRadiant).
 
 Keeps material names, normals and vertex colours intact. Will merge vertices sharing the same set of attributes.
 
