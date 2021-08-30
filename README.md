@@ -13,7 +13,7 @@ Single specified FBX files will be converted to LWO, which will be placed right 
 > Example: **FbxToLwo** c:\temp\model.fbx c:\temp\model2.fbx
 
 ## Batch Folder Conversion Usage
-> **FbxToLwo** -input <path> -output <path>
+> **FbxToLwo** -input path -output path
 
 Every FBX in the input folder and all its child folders will be converted to LWO, which will be placed in the same relative path in the output folder. *Existing files will be overwritten!*
 > **FbxToLwo** -input c:\temp\fbx_files -output c:\temp\lwo_files
